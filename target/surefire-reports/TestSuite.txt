@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 98.813 s <<< FAILURE! - in TestSuite
+Tests1 on Tests1(Selleniun_start_projects.Selleniun_start_projects.AppTest)(Selleniun_start_projects.Selleniun_start_projects.AppTest)  Time elapsed: 0.045 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\geckodriver-v0.34.0-win32\geckodriver.exe
+	at Selleniun_start_projects.Selleniun_start_projects.AppTest.setup(AppTest.java:28)
+
